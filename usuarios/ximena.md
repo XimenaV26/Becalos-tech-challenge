@@ -8,4 +8,4 @@ Me gusta mucho:
 - Salir al cine :film_strip:
 - Comprar ropa :womans_clothes:
 
-Sigue en mi GitHub [GitHub](https://github.com/XimenaV26)
+Sigue en mi [GitHub](https://github.com/XimenaV26)
